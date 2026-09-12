@@ -32,3 +32,4 @@ out/
 *.log
 npm-debug.log*
 *.tsbuildinfo
+*.tsbuildinfo
